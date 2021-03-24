@@ -1,0 +1,12 @@
+mnt/Applications/*.app/
+mnt/Applications/Utilities/*.app/
+
+mnt/Library/Application Support
+mnt/Library/Desktop Pictures
+mnt/Library/Dictionaries
+mnt/Library/Fonts
+mnt/Library/Screen Savers
+mnt/System/Library
+
+mnt/private/var/run/diagnosticd
+mnt/private/var/db/dyld/dyld_shared_cache_*
