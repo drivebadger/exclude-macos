@@ -1,12 +1,26 @@
 mnt/Applications/*.app/
 mnt/Applications/Utilities/*.app/
+mnt/System/Applications/*.app/
+mnt/System/Applications/Utilities/*.app/
 
+mnt/Library/Apple
 mnt/Library/Application Support
+mnt/Library/Caches
 mnt/Library/Desktop Pictures
+mnt/Library/Developer/CommandLineTools
+mnt/Library/Developer/PrivateFrameworks
 mnt/Library/Dictionaries
 mnt/Library/Fonts
+mnt/Library/Printers
 mnt/Library/Screen Savers
+
+mnt/System/iOSSupport/System/Library
 mnt/System/Library
 
 mnt/private/var/run/diagnosticd
 mnt/private/var/db/dyld/dyld_shared_cache_*
+
+usr/local/Homebrew
+usr/share/tokenizer
+
+Library/Developer/CoreSimulator/Caches/dyld
