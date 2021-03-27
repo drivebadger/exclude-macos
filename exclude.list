@@ -21,6 +21,7 @@ mnt/private/var/run/diagnosticd
 mnt/private/var/db/dyld/dyld_shared_cache_*
 
 usr/local/Homebrew
+usr/share/javascript/mathjax
 usr/share/tokenizer
 
 Library/Developer/CoreSimulator/Caches/dyld
